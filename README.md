@@ -1,7 +1,7 @@
 # MENU SPOTIFY
 😎ESTE PROJETO EXEMPLIFICA UM MENU DE NAVEGAÇÃO INTERATIVO INSPIRADO NO DESIGN SIMPLES E FUNCIONAL DO SPOTIFY, USANDO HTML, CSS, E JAVASCRIPT.
 
-<img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.jpg" align="center" width="400"> <br> <br>
 <img src="./IMAGENS/FOTO_02.jpg" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
