@@ -2,7 +2,7 @@
 😎ESTE PROJETO EXEMPLIFICA UM MENU DE NAVEGAÇÃO INTERATIVO INSPIRADO NO DESIGN SIMPLES E FUNCIONAL DO SPOTIFY, USANDO HTML, CSS, E JAVASCRIPT.
 
 <img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_02.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_02.jpg" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 Este projeto exemplifica um **menu de navegação interativo** inspirado no design simples e funcional do Spotify, usando **HTML**, **CSS**, e **JavaScript**. Ele oferece uma interface responsiva, que adapta a exibição do menu conforme o tamanho da tela, além de um visual atraente com efeitos de transição suave.
